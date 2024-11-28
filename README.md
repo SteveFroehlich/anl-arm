@@ -15,5 +15,5 @@ The script should generate a png image named sounding.png. Open that file to vie
 
 ### Original Code
 The code example sounding-example.py was used from the 
-[ARM Github repos](https://arm-doe.github.io/ACT/source/auto_examples/plotting/plot_enhanced_skewt.html#sphx-glr-source-auto-examples-plotting-plot-enhanced-skewt-py)
+[ARM Github docs](https://arm-doe.github.io/ACT/source/auto_examples/plotting/plot_enhanced_skewt.html#sphx-glr-source-auto-examples-plotting-plot-enhanced-skewt-py)
 
